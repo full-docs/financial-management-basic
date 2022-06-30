@@ -1,0 +1,26 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; 初始化账户
+
+2022-04-16 open Equity:Opening-Balances
+2022-04-16 open Equity:UFO
+
+;2、账户初始化
+2022-04-16 * "工商银行卡"
+    Assets:Card:ICBC                                   0.78 CNY
+    Equity:Opening-Balances                           -0.78 CNY
+
+2022-04-16 * "农业银行卡"
+    Assets:Card:ABC                                    0.04 CNY
+    Equity:Opening-Balances                           -0.04 CNY
+
+2022-04-16 * "支付宝"
+    Assets:Alipay                                66.00 CNY
+    Equity:Opening-Balances                       -66.00 CNY
+
+2022-04-16 * "微信"
+    Assets:Wechat                                     26.74 CNY
+    Equity:Opening-Balances                          -26.74 CNY
+
+2022-04-24 * "无法追溯"
+    Assets:UFO                                            0 CNY
+    Equity:UFO                                            0 CNY

@@ -1,0 +1,17 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; 账本
+
+option "title" "我的账本" ;账本名称
+option "operating_currency" "CNY" ;账本主货币
+
+include "common/equity.bean"
+include "common/income.bean"
+include "common/event.bean"
+include "common/expenses.bean"
+include "common/assets.bean"
+include "common/price.bean"
+include "common/liabilities.bean"
+
+include "2022/4.bean" ; 包含账户信息
+include "2022/5.bean" ; 包含账户信息
+include "2022/6.bean" ; 包含账户信息

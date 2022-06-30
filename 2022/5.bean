@@ -1,0 +1,22 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; 记账
+
+2022-05-31 * "伙食费-午餐" "木桶饭"
+    Expenses:Food:Lunch                               15.00 CNY
+    Assets:Alipay                                    -15.00 CNY
+
+2022-05-31 * "伙食费-晚餐" "木桶饭"
+    Expenses:Food:Dinner                              16.00 CNY
+    Assets:Alipay                                    -16.00 CNY
+
+2022-05-31 * "理发" "2个月一次"
+    Expenses:Home:Haircut                             20.00 CNY
+    Assets:Alipay                                    -20.00 CNY
+
+2022-05-31 * "买药" "口腔溃疡-桂林西瓜霜"
+    Expenses:Health:Medical                            9.90 CNY
+    Assets:Alipay                                     -9.90 CNY
+
+; 2022-05-02 balance Assets:Alipay                 55.96 CNY
+; 2022-05-02 balance Assets:Wechat                     224.14 CNY
+; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;对账

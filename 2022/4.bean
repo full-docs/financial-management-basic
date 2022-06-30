@@ -1,0 +1,18 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; 记账
+
+2022-04-30 * "伙食费-午餐" "隆江猪脚饭"
+    Expenses:Food:Lunch                               19.90 CNY
+    Assets:Alipay                                    -19.90 CNY
+
+2022-04-30 * "午餐" "黄焖鸡"
+    Expenses:Food:Lunch                               22.90 CNY
+    Assets:Alipay                                    -22.90 CNY
+
+2022-04-30 * "出行" "地铁"
+    Expenses:Transport:GJDT                           18.96 CNY
+    Assets:Alipay                                    -18.96 CNY
+
+; 2022-05-02 balance Assets:Alipay                 55.96 CNY
+; 2022-05-02 balance Assets:Wechat                     224.14 CNY
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;对账

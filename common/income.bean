@@ -1,0 +1,13 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;收入,工资、投资收益等
+
+;主动收入
+2022-04-16 open Income:CN:Salary:XXX    CNY     ;上班公司收入
+2022-04-16 open Income:CN:Fuye:IdleFish CNY    ;闲鱼副业
+2022-04-16 open Income:CN:Fund CNY    ;基金 收益等。
+
+;退款返款
+2022-04-16 open Income:CN:Rebate    CNY
+
+;红包
+2022-04-16 open Income:CN:RedEnvelope    CNY

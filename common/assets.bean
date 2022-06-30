@@ -1,0 +1,8 @@
+;;;;;;;;;;;;;;;;;;;;;;
+;;资产
+
+2022-04-16 open Assets:Card:ABC ;农业银行
+2022-04-16 open Assets:Card:ICBC ;工商银行
+2022-04-16 open Assets:Alipay ;支付宝主账户
+2022-04-16 open Assets:Wechat ;微信
+2022-04-24 open Assets:UFO ;无法追溯

@@ -1,0 +1,18 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; 记账
+
+2022-06-29 * "出行" "下班单车"
+    Expenses:Transport:GJDT                            6.00 CNY
+    Assets:Alipay                                     -6.00 CNY
+
+2022-06-29 * "闲鱼" "hexo博客"
+    Assets:Wechat                                     30.00 CNY
+    Income:CN:Fuye:IdleFish                          -30.00 CNY
+
+2022-06-30 * "快递费用" "景德镇->南昌"
+    Expenses:Home:Other                               50.00 CNY
+    Assets:Wechat                                    -50.00 CNY
+
+; 2022-05-02 balance Assets:Alipay                 55.96 CNY
+; 2022-05-02 balance Assets:Wechat                     224.14 CNY
+; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;对账

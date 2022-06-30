@@ -1,0 +1,59 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; 支出
+
+;居家
+2022-04-16 open Expenses:Home:Phone ;手机电话
+;2022-04-16 open Expenses:Home:Mortgage:Loan:Interest ;房贷利息
+2022-04-16 open Expenses:Home:RENTING ; 租房
+2022-04-16 open Expenses:Home:SDRQ ;水电燃气
+2022-04-16 open Expenses:Home:Haircut ;理发费
+2022-04-16 open Expenses:Home:SKINCARE ;护肤
+2022-04-16 open Expenses:Home:EE ;护肤
+2022-04-16 open Expenses:Home:Other ;其他
+
+2022-05-18 open Expenses:WORK ;工作
+
+;人情
+2022-04-16 open Expenses:Relationship:Gift ;礼物
+;2022-04-16 open Expenses:Relationship:Other ;其他
+
+;购物
+;2022-04-16 open Expenses:Shopping:Clothing  ;服饰鞋包
+;2022-04-16 open Expenses:Shopping:Digital  ;电子数码
+;2022-04-16 open Expenses:Shopping:Book  ;买书
+2022-04-16 open Expenses:Shopping:Other  ;其他
+
+;餐饮
+2022-04-16 open Expenses:Food:Breakfast ;早餐
+2022-04-16 open Expenses:Food:Lunch ;午餐
+2022-04-16 open Expenses:Food:Dinner ;晚餐
+2022-04-16 open Expenses:Food:DrinkFruit ;饮料水果
+2022-04-16 open Expenses:Food:Other ;其他
+
+;医疗健康
+;2022-04-16 open Expenses:Health:Outpatient  ;门诊
+2022-04-16 open Expenses:Health:Medical  ;药品
+2022-04-16 open Expenses:Health:Examination  ;体检
+2022-04-16 open Expenses:Health:Other  ;其他
+
+;娱乐
+2022-04-16 open Expenses:Entertainment:Other
+
+;交通
+;2022-04-16 open Expenses:Transport:Railway ;火车
+;2022-04-16 open Expenses:Transport:TAXI ;打车
+2022-04-16 open Expenses:Transport:GJDT ;公交地铁
+2022-04-16 open Expenses:Transport:BIKE ;共享单车/电瓶车
+
+;五险一金
+;2022-04-16 open Expenses:Government:Pension ; 养老保险
+;2022-04-16 open Expenses:Government:Unemployment ; 失业保险
+;2022-04-16 open Expenses:Government:Medical ; 医疗保险
+;2022-04-16 open Expenses:Government:Injury ; 工伤保险
+;2022-04-16 open Expenses:Government:Maternity ; 生育保险
+
+;个人税
+;2022-04-16 open Expenses:Government:IncomeTax
+
+;学习
+2022-04-16 open Expenses:Invest:Study ;学习费用
