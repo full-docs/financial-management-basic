@@ -3,6 +3,12 @@
 
 [记账神器 Beancount 教程](https://sspai.com/post/59777)
 
+![20220630123144](https://cdn.jsdelivr.net/gh/wudg/picgo@master/images/books/20220630123144.png)
+
+![20220630123210](https://cdn.jsdelivr.net/gh/wudg/picgo@master/images/books/20220630123210.png)
+
+![20220630123224](https://cdn.jsdelivr.net/gh/wudg/picgo@master/images/books/20220630123224.png)
+
 ## 安装
 
 beancount 是个 Python 项目，安装好 python 后，执行：
