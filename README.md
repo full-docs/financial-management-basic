@@ -1,5 +1,10 @@
 # financial-management
+
 纯文本复式记账，记录财富
+
+**记账三个月的数据效果图：**[进入](https://github.com/full-docs/financial-management-basic/issues/1)
+
+## 简述
 
 把只记录收支的方法称为**普通记账**（估计是多数人在用的方法）。那么复式记账，除了记录收支，还需记录账户（支付宝、银行卡等）的变动。
 
@@ -8,10 +13,6 @@
 **复式记账是方法论，而 Beancount 则是支持复式记账的工具**
 
 [记账神器 Beancount 教程](https://sspai.com/post/59777)
-
-![20220630123144](https://cdn.jsdelivr.net/gh/wudg/picgo@master/images/books/20220630123144.png)
-
-![20220630123210](https://cdn.jsdelivr.net/gh/wudg/picgo@master/images/books/20220630123210.png)
 
 ![20220630123224](https://cdn.jsdelivr.net/gh/wudg/picgo@master/images/books/20220630123224.png)
 
