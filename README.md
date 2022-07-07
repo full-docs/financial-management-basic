@@ -25,7 +25,7 @@ pip install beancount
 pip install fava
 ```
 
-Fava 是关联软件，为 Beancount 提供一个更漂亮的 Web 界面（如图 1/2/3），建议同时安装。
+Fava 是关联软件，为 Beancount 提供一个更漂亮的 Web 界面，建议安装。
 
 ## 账本示例
 
