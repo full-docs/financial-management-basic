@@ -72,7 +72,10 @@ option "operating_currency" "CNY" ;账本主货币
 ### 第二步：命令行执行 fava moneybook.bean，看到如下结果：
 
 ```shell
-fava moneybook.bean                                                                                                                                              
+fava moneybook.bean                                                                
 Running Fava on http://localhost:5000
 ```
 
+### 第三步：在浏览器中展示
+
+访问：http://localhost:5000/
